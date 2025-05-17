@@ -1,0 +1,1 @@
+# Manual-QA-Mobile-app-testing-Android-
